@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1653553210638,
+  "timestamp": 1653553973488,
   "index": "https://Fatih-esgi.github.io/easylettersTest/index.html",
   "assetGroups": [
     {
@@ -69,7 +69,7 @@
         "https://Fatih-esgi.github.io/easylettersTest/common.9bfdd357076eb343.js",
         "https://Fatih-esgi.github.io/easylettersTest/favicon.ico",
         "https://Fatih-esgi.github.io/easylettersTest/index.html",
-        "https://Fatih-esgi.github.io/easylettersTest/main.3677a91bd6527f2e.js",
+        "https://Fatih-esgi.github.io/easylettersTest/main.64b37de90dd53c54.js",
         "https://Fatih-esgi.github.io/easylettersTest/manifest.webmanifest",
         "https://Fatih-esgi.github.io/easylettersTest/polyfills-core-js.51be25b72256b78b.js",
         "https://Fatih-esgi.github.io/easylettersTest/polyfills-dom.45c11fc221b96065.js",
@@ -166,8 +166,8 @@
     "https://Fatih-esgi.github.io/easylettersTest/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://Fatih-esgi.github.io/easylettersTest/common.9bfdd357076eb343.js": "d6e6eda0227f93f44ce0690d281a3132320f6628",
     "https://Fatih-esgi.github.io/easylettersTest/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://Fatih-esgi.github.io/easylettersTest/index.html": "206ff245a720efa268b72844d4f8bd1d7be5ecb7",
-    "https://Fatih-esgi.github.io/easylettersTest/main.3677a91bd6527f2e.js": "34632c70e1645f56ac631608cb330cbb75977b85",
+    "https://Fatih-esgi.github.io/easylettersTest/index.html": "20904478a8f3550ed244d4990ca92c7e696f0114",
+    "https://Fatih-esgi.github.io/easylettersTest/main.64b37de90dd53c54.js": "4ead88ca7bc50f13e3c646682be4dabadbc6b199",
     "https://Fatih-esgi.github.io/easylettersTest/manifest.webmanifest": "e76364a9dea5e9451bd1e8f3509fbc6943cfdc41",
     "https://Fatih-esgi.github.io/easylettersTest/polyfills-core-js.51be25b72256b78b.js": "3f5efb3d84f4547362f1f678a9202de32bd9f7b9",
     "https://Fatih-esgi.github.io/easylettersTest/polyfills-dom.45c11fc221b96065.js": "0cf484d2da5027f01297053bd7781941032f3d1b",
