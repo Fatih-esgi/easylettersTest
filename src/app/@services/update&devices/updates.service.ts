@@ -9,14 +9,10 @@ import { filter, map } from 'rxjs/operators';
 export class UpdatesService {
   constructor(private _updates: SwUpdate, private _popup: UpdateToastService) {}
   checkUpdates() {
-    const updatesAvailable = this._updates.versionUpdates.pipe(
-      filter((evt): evt is VersionReadyEvent => evt.type === 'VERSION_READY'),
-      map((evt) => ({
-        type: 'UPDATE_AVAILABLE',
-        current: evt.currentVersion,
-        available: evt.latestVersion,
-      }))
-    );
-    return updatesAvailable;
+    this._updates.versionUpdates.subscribe((event) => {
+      if (event) {
+        this._popup.displayPopUpUpdate();
+      }
+    });
   }
 }
