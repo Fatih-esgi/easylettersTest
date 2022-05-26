@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
-import { CheckdeviceService } from './@services/toast/update&devices/checkdevice.service';
-import { UpdatesService } from './@services/toast/update&devices/updates.service';
+import { CheckdeviceService } from './@services/update&devices/checkdevice.service';
+import { UpdatesService } from './@services/update&devices/updates.service';
 
 @Component({
   selector: 'app-root',
