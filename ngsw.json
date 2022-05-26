@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1653551659478,
+  "timestamp": 1653551937998,
   "index": "https://Fatih-esgi.github.io/easylettersTest/index.html",
   "assetGroups": [
     {
@@ -48,7 +48,7 @@
         "https://Fatih-esgi.github.io/easylettersTest/6560.6f81c2b2bc46e97e.js",
         "https://Fatih-esgi.github.io/easylettersTest/657.5f7e38f9172f43af.js",
         "https://Fatih-esgi.github.io/easylettersTest/67.1235759d0c8130f1.js",
-        "https://Fatih-esgi.github.io/easylettersTest/6790.7090f9325393b206.js",
+        "https://Fatih-esgi.github.io/easylettersTest/6790.11f1e8339c461683.js",
         "https://Fatih-esgi.github.io/easylettersTest/7113.5766928a6d31b42b.js",
         "https://Fatih-esgi.github.io/easylettersTest/7409.f1382ee660b59375.js",
         "https://Fatih-esgi.github.io/easylettersTest/7544.76a2f621093bf9e3.js",
@@ -74,7 +74,7 @@
         "https://Fatih-esgi.github.io/easylettersTest/polyfills-core-js.51be25b72256b78b.js",
         "https://Fatih-esgi.github.io/easylettersTest/polyfills-dom.45c11fc221b96065.js",
         "https://Fatih-esgi.github.io/easylettersTest/polyfills.9ecf1febf7879b2b.js",
-        "https://Fatih-esgi.github.io/easylettersTest/runtime.518c5538c43c5b3a.js",
+        "https://Fatih-esgi.github.io/easylettersTest/runtime.0fd8fdefa6ea9848.js",
         "https://Fatih-esgi.github.io/easylettersTest/styles.bbe5d9edb6b2807b.css"
       ],
       "patterns": []
@@ -138,7 +138,7 @@
     "https://Fatih-esgi.github.io/easylettersTest/6560.6f81c2b2bc46e97e.js": "6f234d0260fd148b37eb93840b4cd33e09783437",
     "https://Fatih-esgi.github.io/easylettersTest/657.5f7e38f9172f43af.js": "0915b1295c369465fb32266c3f7035a54f5878bf",
     "https://Fatih-esgi.github.io/easylettersTest/67.1235759d0c8130f1.js": "0f56998a55dfc95b297e12491904510daacc457e",
-    "https://Fatih-esgi.github.io/easylettersTest/6790.7090f9325393b206.js": "66373dc99f416442cd9b18b9b140074a1b329a04",
+    "https://Fatih-esgi.github.io/easylettersTest/6790.11f1e8339c461683.js": "f08ac705ab51f0bde87dbe4deec8e04821617e8a",
     "https://Fatih-esgi.github.io/easylettersTest/7113.5766928a6d31b42b.js": "004cb5819f46aae48dc8107862d0b0a9e40caa67",
     "https://Fatih-esgi.github.io/easylettersTest/7409.f1382ee660b59375.js": "afb9163d96a0f7ec506ab0fe82f27bbde4a09117",
     "https://Fatih-esgi.github.io/easylettersTest/7544.76a2f621093bf9e3.js": "84b346f13361a106304b2b44456790a701ee7343",
@@ -166,13 +166,13 @@
     "https://Fatih-esgi.github.io/easylettersTest/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://Fatih-esgi.github.io/easylettersTest/common.9bfdd357076eb343.js": "d6e6eda0227f93f44ce0690d281a3132320f6628",
     "https://Fatih-esgi.github.io/easylettersTest/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://Fatih-esgi.github.io/easylettersTest/index.html": "e64ad593c8181d37b380bccacd9c2a230a6b6c2d",
+    "https://Fatih-esgi.github.io/easylettersTest/index.html": "b7e7c0cd87677f8c2e627497b734e3ca3b0d384b",
     "https://Fatih-esgi.github.io/easylettersTest/main.7db2276c80851703.js": "967153b81a5b621fdc33d404d0a9ffecd2e4d044",
     "https://Fatih-esgi.github.io/easylettersTest/manifest.webmanifest": "e76364a9dea5e9451bd1e8f3509fbc6943cfdc41",
     "https://Fatih-esgi.github.io/easylettersTest/polyfills-core-js.51be25b72256b78b.js": "3f5efb3d84f4547362f1f678a9202de32bd9f7b9",
     "https://Fatih-esgi.github.io/easylettersTest/polyfills-dom.45c11fc221b96065.js": "0cf484d2da5027f01297053bd7781941032f3d1b",
     "https://Fatih-esgi.github.io/easylettersTest/polyfills.9ecf1febf7879b2b.js": "6827a14350ab13d690e775d2fc484b3b4749a81d",
-    "https://Fatih-esgi.github.io/easylettersTest/runtime.518c5538c43c5b3a.js": "ae33881366ad5f70feb62d33426830c6f5af98e9",
+    "https://Fatih-esgi.github.io/easylettersTest/runtime.0fd8fdefa6ea9848.js": "748a262dc83e37a0b7df2a860e5fe179a0fbccfa",
     "https://Fatih-esgi.github.io/easylettersTest/styles.bbe5d9edb6b2807b.css": "2b6f45b0c95ecd24774ab37baf69e39013f44aa6"
   },
   "navigationUrls": [
